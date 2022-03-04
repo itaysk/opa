@@ -40,6 +40,7 @@ organizations | list of strings | A list of organizations related to the annotat
 related_resources | list of URLs | A list of URLs pointing to related resources/documentation. Read more [here](#related-resources).
 schemas | list of object | A list of associations between value paths and schema definitions. Read more [here](#schemas).
 scope | string; one of `package`, `rule`, `document`, `subpackages` | The scope on which the `schemas` annotation is applied. Read more [here](./#scope).
+title | string | A human-readable name for the annotation target. Read more [here](#title).
 
 ### Authors
 
